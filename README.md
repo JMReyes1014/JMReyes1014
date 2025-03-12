@@ -6,6 +6,11 @@
 ## 🚀 About Me
 I aspire to be a successful software developer and/or machine learning expert. I build my projects one step at a time, I enjoy learning new things and squishing bugs is my specialty (cries in 6 hours). I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I love building intelligent systems that solve real-world problems, whether it's deep learning models for plant disease detection or NLP-driven AI assistants.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/john-michael-reyes-543093356"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/briefcase.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 <!--
 **JMReyes1014/JMReyes1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

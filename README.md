@@ -64,6 +64,15 @@ I aspire to be a successful software developer and/or machine learning expert. I
   </table>
 </p>
 
+<details>
+  <summary><h3>🔽 More Projects</h3></summary>
+  <ul>
+    <li><a href="https://github.com/JMReyes1014/notes-app-v2">Notes App - Made from React-Django</a></li>
+    <li><a href="https://github.com/JMReyes1014/fitgirl_batch_downloader">Fitgirl Batch Downloader - Batch Downloader for fitgirl repacks</a></li>
+    <li><a href="https://github.com/JMReyes1014/CNN_Projects">CNN Models Trained - Some of the CNN models I trained</a></li>
+  </ul>
+</details>
+
 #
 
 ### 📊 Stats

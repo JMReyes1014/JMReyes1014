@@ -4,8 +4,7 @@
 **`𝓒'𝓮𝓼𝓽 𝓮𝓷 𝓯𝓪𝓲𝓼𝓪𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓸𝓲 𝓺𝓾𝓸𝓷 𝓭𝓮𝓿𝓲𝓮𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓲`**
 
 ## 🚀 About Me
-I aspire to be a successful software developer and/or machine learning expert
-I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I love building intelligent systems that solve real-world problems, whether it's deep learning models for plant disease detection or NLP-driven AI assistants.
+I aspire to be a successful software developer and/or machine learning expert. I build my projects one step at a time, I enjoy learning new things and squishing bugs is my specialty (cries in 6 hours). I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I love building intelligent systems that solve real-world problems, whether it's deep learning models for plant disease detection or NLP-driven AI assistants.
 
 <!--
 **JMReyes1014/JMReyes1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

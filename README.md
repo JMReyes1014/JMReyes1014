@@ -38,16 +38,10 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 ### 📊 Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&layout=compact" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&layout=compact" alt="Top Languages" height="165"/>
+</p>
 
 <!--
 **JMReyes1014/JMReyes1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

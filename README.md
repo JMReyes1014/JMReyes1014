@@ -45,6 +45,26 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 #
 
+### 📃 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/example-link">
+    <img src="https://example.com/python-cert.png" alt="Python IT Specialist" width="150"/>
+  </a>
+  <br/>
+  <b>Python IT Specialist - Certiport</b>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/example-link">
+    <img src="https://example.com/ic3-cert.png" alt="IC3 Digital Literacy" width="150"/>
+  </a>
+  <br/>
+  <b>IC3 Digital Literacy Global Standard Six</b>
+</p>
+
+#
+
 <details>
   <summary><h3>🚶 My Coding Journey</h3></summary>
   

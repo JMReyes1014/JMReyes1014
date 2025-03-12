@@ -33,6 +33,36 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 ### 🏆 Projects
 
+### 🏆 Projects  
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://via.placeholder.com/150" alt="LAYA Project" width="120"/>
+          <br/>
+          <b>LAYA: Legal Aid AI</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
+          <img src="https://via.placeholder.com/150" alt="NPK Detector" width="120"/>
+          <br/>
+          <b>NPK Deficiency Detector</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/JMReyes1014/YourProject">
+          <img src="https://via.placeholder.com/150" alt="Your Project" width="120"/>
+          <br/>
+          <b>Another Project</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 #
 

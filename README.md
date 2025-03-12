@@ -34,28 +34,35 @@ I aspire to be a successful software developer and/or machine learning expert. I
 ### 🏆 Projects
 
 <p align="center">
-  <!-- LAYA -->
-  <a href="#">
-    <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="LAYA Project" width="250"/>
-    <br/>
-    <b>LAYA: Legal Aid AI</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- NPK -->
-  <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
-    <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="NPK Detector" width="250"/>
-    <br/>
-    <b>NPK Deficiency Detector</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- iPaws -->
-  <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
-    <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/2.png" alt="iPaws" width="250"/>
-    <br/>
-    <b>iPaws</b>
-  </a>
+  <table>
+    <tr>
+      <!-- LAYA -->
+      <td align="center">
+        <a href="#">
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="LAYA Project" width="500"/>
+          <br/>
+        </a>
+          <b>LAYA: Legal Aid AI</b>
+      </td>
+      <!-- NPK -->
+      <td align="center">
+        <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="NPK Detector" width="500"/>
+          <br/>
+        </a>
+          <b>NPK Deficiency Detector</b>
+      </td>
+       <!-- iPaws -->
+      <td align="center">
+        <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/2.png" alt="NPK Detector" width="500"/>
+          <br/>
+         </a>
+          <b>iPaws</b>
+      </td>
+    </tr>
+  </table>
 </p>
-
 
 #
 

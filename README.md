@@ -3,7 +3,7 @@
 
 **`𝓒'𝓮𝓼𝓽 𝓮𝓷 𝓯𝓪𝓲𝓼𝓪𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓸𝓲 𝓺𝓾𝓸𝓷 𝓭𝓮𝓿𝓲𝓮𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓲`**
 
-🚀 About Me
+## 🚀 About Me
 I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Web Development. I love building intelligent systems that solve real-world problems, whether it's deep learning models for plant disease detection or NLP-driven AI assistants.
 
 <!--

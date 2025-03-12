@@ -41,26 +41,26 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- LAYA -->
       <td align="center">
         <a href="#">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="LAYA Project" width="120"/>
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="LAYA Project" width="300"/>
           <br/>
-          <b>LAYA: Legal Aid AI</b>
         </a>
+          <b>LAYA: Legal Aid AI</b>
       </td>
       <!-- NPK -->
       <td align="center">
         <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="NPK Detector" width="120"/>
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="NPK Detector" width="300"/>
           <br/>
-          <b>NPK Deficiency Detector</b>
         </a>
+          <b>NPK Deficiency Detector</b>
       </td>
        <!-- iPaws -->
       <td align="center">
         <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/2.png" alt="NPK Detector" width="120"/>
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/2.png" alt="NPK Detector" width="300"/>
           <br/>
+         </a>
           <b>iPaws</b>
-        </a>
       </td>
     </tr>
   </table>

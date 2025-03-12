@@ -41,7 +41,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- LAYA -->
       <td align="center">
         <a href="#">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="LAYA Project" width="300"/>
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="LAYA Project" width="500"/>
           <br/>
         </a>
           <b>LAYA: Legal Aid AI</b>
@@ -49,7 +49,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- NPK -->
       <td align="center">
         <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="NPK Detector" width="300"/>
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="NPK Detector" width="500"/>
           <br/>
         </a>
           <b>NPK Deficiency Detector</b>
@@ -57,7 +57,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
        <!-- iPaws -->
       <td align="center">
         <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/2.png" alt="NPK Detector" width="300"/>
+          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/2.png" alt="NPK Detector" width="500"/>
           <br/>
          </a>
           <b>iPaws</b>

@@ -1,6 +1,6 @@
-#  🧑‍💻 JM Reyes –╭╮ರ
-## 🎓 Computer Science Student @ National University | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer
-**`𝓒'𝓮𝓼𝓽 𝓮𝓷 𝓯𝓪𝓲𝓼𝓪𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓸𝓲 𝓺𝓾𝓸𝓷 𝓭𝓮𝓿𝓲𝓮𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓲`**
+#  🧑‍💻 Hi, I'm John Michael R. Reyes!
+🎓 Computer Science Student @ National University | 🤖 AI & ML Enthusiast | 💻 Full-Stack Developer
+**`𝓒'𝓮𝓼𝓽 𝓮𝓷 𝓯𝓪𝓲𝓼𝓪𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓸𝓲 𝓺𝓾𝓸𝓷 𝓭𝓮𝓿𝓲𝓮𝓷𝓽 𝓷'𝓲𝓶𝓹𝓸𝓻𝓽𝓮 𝓺𝓾𝓲`** –╭╮ರ
 
 <!--
 **JMReyes1014/JMReyes1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

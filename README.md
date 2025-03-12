@@ -38,9 +38,9 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 ### 📊 Stats
 
-![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=dracula)
+![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&layout=compact)
 
 
 

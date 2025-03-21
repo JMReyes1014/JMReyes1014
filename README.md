@@ -114,7 +114,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
   <h4>📌 Conferences & Competitions Attended</h4>
   <ul>
     <li>🎓 <b>24th Philippine Computing Science Congress</b> - La Salle, Laguna (May 2024)</li>
-    <li>🌍 <b>APPCON 2023</b> - Represented NU-Lipa, AI for Social Issues (May 2024)</li>
+    <li>🌍 <b>APPCON 2023</b> - Represented NU-Lipa, AI for Social Issues (October 2023 - April 2024)</li>
     <li>💡 <b>CHED LAKAS AI Research Program</b> - Focused on NLP AI (October 2023)</li>
   </ul>
 

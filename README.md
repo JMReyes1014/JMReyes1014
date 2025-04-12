@@ -78,7 +78,8 @@ I aspire to be a successful software developer and/or machine learning expert. I
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights" alt="GitHub Stats" height="165"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights" alt="GitHub Stats" height="165"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights](https://streak-stats.demolab.com?user=JMReyes1014&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&layout=compact" alt="Top Languages" height="165"/>
 </p>
 

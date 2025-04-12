@@ -80,7 +80,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights" alt="GitHub Stats" height="165"/> -->
   <img src="https://streak-stats.demolab.com?user=JMReyes1014&theme=dark&hide_border=true" alt="JMReyes1014's GitHub Stats" height="165"/> &nbsp &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="JMReyes1014's GitHub Stats" height="165"/>
 </p>
 
 #

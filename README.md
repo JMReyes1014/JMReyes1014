@@ -39,23 +39,23 @@ I aspire to be a successful software developer and/or machine learning expert. I
       <!-- LAYA -->
       <td align="center">
         <a href="#">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/1.png" alt="LAYA Project" width="400"/>
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/1.png" alt="LAYA Project" width="400"/>
           <br/>
         </a>
           <b>LAYA: Legal Aid AI</b>
       </td>
       <!-- NPK -->
       <td align="center">
-        <a href="https://github.com/JMReyes1014/NPK_Deficiency_Classifier">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/3.png" alt="NPK Detector" width="400"/>
+        <a href="https://github.com/itzjmbruhhh/NPK_Deficiency_Classifier">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/3.png" alt="NPK Detector" width="400"/>
           <br/>
         </a>
           <b>NPKnows</b>
       </td>
        <!-- iPaws -->
       <td align="center">
-        <a href="https://github.com/JMReyes1014/OOP-Finals-Project">
-          <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/Projects/2.png" alt="NPK Detector" width="400"/>
+        <a href="https://github.com/itzjmbruhhh/OOP-Finals-Project">
+          <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/Projects/2.png" alt="NPK Detector" width="400"/>
           <br/>
          </a>
           <b>iPaws</b>
@@ -67,9 +67,9 @@ I aspire to be a successful software developer and/or machine learning expert. I
 <details>
   <summary><h3>🔽 More Projects</h3></summary>
   <ul>
-    <li><a href="https://github.com/JMReyes1014/notes-app-v2">Notes App - Made from React-Django</a></li>
-    <li><a href="https://github.com/JMReyes1014/fitgirl_batch_downloader">Fitgirl Batch Downloader - Batch Downloader for fitgirl repacks</a></li>
-    <li><a href="https://github.com/JMReyes1014/CNN_Projects">CNN Models Trained - Some of the CNN models I trained</a></li>
+    <li><a href="https://github.com/itzjmbruhhh/notes-app-v2">Notes App - Made from React-Django</a></li>
+    <li><a href="https://github.com/itzjmbruhhh/fitgirl_batch_downloader">Fitgirl Batch Downloader - Batch Downloader for fitgirl repacks</a></li>
+    <li><a href="https://github.com/itzjmbruhhh/CNN_Projects">CNN Models Trained - Some of the CNN models I trained</a></li>
   </ul>
 </details>
 
@@ -78,9 +78,9 @@ I aspire to be a successful software developer and/or machine learning expert. I
 ### 📊 Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=JMReyes1014&show_icons=true&theme=city_lights" alt="GitHub Stats" height="165"/> -->
-  <img src="https://streak-stats.demolab.com?user=JMReyes1014&theme=nord&hide_border=true" alt="JMReyes1014's GitHub Stats" height="165"/> &nbsp &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMReyes1014&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="JMReyes1014's GitHub Stats" height="165"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=itzjmbruhhh&show_icons=true&theme=city_lights" alt="GitHub Stats" height="165"/> -->
+  <img src="https://streak-stats.demolab.com?user=itzjmbruhhh&theme=nord&hide_border=true" alt="itzjmbruhhh's GitHub Stats" height="165"/> &nbsp &nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzjmbruhhh&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="itzjmbruhhh's GitHub Stats" height="165"/>
 </p>
 
 #
@@ -89,7 +89,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 <p align="center">
   <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=471&cvid=gJa16edaw0zmiq6bgXDudw==" style="text-decoration: none;">
-    <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/ITS_Python.png" alt="Python IT Specialist" width="150"/>
+    <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/ITS_Python.png" alt="Python IT Specialist" width="150"/>
     <br/>
   </a>
     <b>Python IT Specialist - Certiport</b>
@@ -97,7 +97,7 @@ I aspire to be a successful software developer and/or machine learning expert. I
 
 <p align="center">
   <a href="https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=447&cvid=53MwZ6dvm6ZlxZr9m/osvg==" style="text-decoration: none;">
-    <img src="https://github.com/JMReyes1014/JMReyes1014/blob/main/IC3_Level1.png" alt="IC3 Digital Literacy" width="150"/>
+    <img src="https://github.com/itzjmbruhhh/itzjmbruhhh/blob/main/IC3_Level1.png" alt="IC3 Digital Literacy" width="150"/>
     <br/>
   </a>
     <b>IC3 Digital Literacy Global Standard Six</b>
